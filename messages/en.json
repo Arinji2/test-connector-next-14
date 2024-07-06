@@ -1,0 +1,50 @@
+{
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, es {🇪🇸 ES} en {🇺🇸 EN} other {Unknown}}"
+  },
+  "ConnectButton": {
+    "title": "Login",
+    "description": "Connect your wallet to get started.",
+    "addAccount": "Add Account",
+    "disconnect": "Disconnect"
+  },
+  "useConnector": {
+    "confirm": {
+      "title": "Wallet Authentication",
+      "description": "You're about to authenticate, you will need to accept the request in your wallet."
+    },
+    "waiting": {
+      "title": "Waiting for Wallet Approval...",
+      "description": "Please, confirm in your Wallet in order to connect."
+    }
+  },
+  "AccountSettings": {
+    "LanguageOption": {
+      "title": "Language"
+    },
+    "DarkModeOption": {
+      "title": "Dark Mode"
+    },
+    "ClearDataOption": {
+      "title": "Clear Local Data"
+    }
+  },
+  "Manifest": {
+    "name": "next-intl example"
+  },
+  "Navigation": {
+    "staking": "Staking",
+    "claims": "INO Claims",
+    "airdrops": "Early Airdrops"
+  },
+  "Errors": {},
+  "Words": {
+    "close": "Close",
+    "attention": "Attention",
+    "error": "Error",
+    "confirm": "Confirm",
+    "language": "Language",
+    "soon": "Soon"
+  }
+}

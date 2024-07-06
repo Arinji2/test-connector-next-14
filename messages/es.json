@@ -1,0 +1,50 @@
+{
+  "LocaleSwitcher": {
+    "label": "Cambiar idioma",
+    "locale": "{locale, select, es {🇪🇸 ES} en {🇺🇸 EN} other {Desconocido}}"
+  },
+  "ConnectButton": {
+    "title": "Iniciar sesión",
+    "description": "Conecta tu billetera para comenzar.",
+    "addAccount": "Agregar cuenta",
+    "disconnect": "Desconectar"
+  },
+  "useConnector": {
+    "confirm": {
+      "title": "Autenticación de billetera",
+      "description": "Estás a punto de autenticarte, necesitarás aceptar la solicitud en tu billetera."
+    },
+    "waiting": {
+      "title": "Esperando la aprobación de la billetera...",
+      "description": "Por favor, confirma en tu billetera para conectarte."
+    }
+  },
+  "AccountSettings": {
+    "LanguageOption": {
+      "title": "Idioma"
+    },
+    "DarkModeOption": {
+      "title": "Modo oscuro"
+    },
+    "ClearDataOption": {
+      "title": "Borrar datos locales"
+    }
+  },
+  "Manifest": {
+    "name": "ejemplo de next-intl"
+  },
+  "Navigation": {
+    "staking": "Staking",
+    "claims": "Reclamos INO",
+    "airdrops": "Airdrops tempranos"
+  },
+  "Errors": {},
+  "Words": {
+    "close": "Cerrar",
+    "attention": "Atención",
+    "error": "Error",
+    "confirm": "Confirmar",
+    "language": "Idioma",
+    "soon": "Pronto"
+  }
+}
